@@ -1,0 +1,28 @@
+- Install python 3.9 prior to downloading the script, you can do so at https://www.python.org/downloads/release/python-396/ or download it from the microsoft appstore
+
+
+
+
+
+
+- Below are the required python modules for the script to work, open the run program and type in cmd 
+- Paste the following into the cmd terminal 
+
+
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip install psutil
+pip install keyboard
+
+
+
+
+
+( For linux Ubuntu ) Open your terminal and paste the following: 
+
+sudo apt update
+sudo apt install python3-pip
+sudo pip3 install psutil
+sudo pip3 install keyboard
+
