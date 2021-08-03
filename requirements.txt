@@ -3,6 +3,8 @@
 
 
 
+- Use CMD to launch the program, type  "python SpotifySkip1.1.py" to launch the script
+
 
 
 - Below are the required python modules for the script to work, open the run program and type in cmd 
